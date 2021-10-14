@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/13_spring_boot_admin/admin.iml" filepath="$PROJECT_DIR$/13_spring_boot_admin/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_dobbo_parent/consumer/client.iml" filepath="$PROJECT_DIR$/09_dobbo_parent/consumer/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_dobbo_parent/common-api/common-api.iml" filepath="$PROJECT_DIR$/09_dobbo_parent/common-api/common-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20_config_switch/config-switch.iml" filepath="$PROJECT_DIR$/20_config_switch/config-switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_distributed_lock/database_lock/databaselook.iml" filepath="$PROJECT_DIR$/05_distributed_lock/database_lock/databaselook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_spring_data_jpa/datajpa.iml" filepath="$PROJECT_DIR$/11_spring_data_jpa/datajpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_distributed_lock/distributedlock.iml" filepath="$PROJECT_DIR$/05_distributed_lock/distributedlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_docker_build/docker-build.iml" filepath="$PROJECT_DIR$/06_docker_build/docker-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_druid_monitor/druid-monitor.iml" filepath="$PROJECT_DIR$/12_druid_monitor/druid-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_dobbo_parent/dubbo-admin-master/dubbo-admin/dubbo-admin.iml" filepath="$PROJECT_DIR$/09_dobbo_parent/dubbo-admin-master/dubbo-admin/dubbo-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_dobbo_parent/dubbo-admin-master/dubbo-monitor-simple/dubbo-monitor-simple.iml" filepath="$PROJECT_DIR$/09_dobbo_parent/dubbo-admin-master/dubbo-monitor-simple/dubbo-monitor-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_dobbo_parent/dubbo-admin-master/dubbo-ops.iml" filepath="$PROJECT_DIR$/09_dobbo_parent/dubbo-admin-master/dubbo-ops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_dobbo_parent/dubbo-admin-master/dubbo-registry-simple/dubbo-registry-simple.iml" filepath="$PROJECT_DIR$/09_dobbo_parent/dubbo-admin-master/dubbo-registry-simple/dubbo-registry-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_api_limit/guava.iml" filepath="$PROJECT_DIR$/10_api_limit/guava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_helloword/helloword.iml" filepath="$PROJECT_DIR$/01_helloword/helloword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_jta-atomikos/jta-atomikos.iml" filepath="$PROJECT_DIR$/04_jta-atomikos/jta-atomikos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_security_jwt/jwt-security.iml" filepath="$PROJECT_DIR$/16_security_jwt/jwt-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/master.iml" filepath="$PROJECT_DIR$/master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_spring_boot_admin/admin-server/monitor.iml" filepath="$PROJECT_DIR$/13_spring_boot_admin/admin-server/monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_my_spring_boot_starter_parent/my-spring-boot-starter/my-spring-boot-starter.iml" filepath="$PROJECT_DIR$/08_my_spring_boot_starter_parent/my-spring-boot-starter/my-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_my_spring_boot_starter_parent/my-spring-boot-starter-parent.iml" filepath="$PROJECT_DIR$/08_my_spring_boot_starter_parent/my-spring-boot-starter-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_mybatis_plus/mybatis-plus.iml" filepath="$PROJECT_DIR$/14_mybatis_plus/mybatis-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_netty_websocket/netty-websocket.iml" filepath="$PROJECT_DIR$/18_netty_websocket/netty-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_dobbo_parent/parent.iml" filepath="$PROJECT_DIR$/09_dobbo_parent/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19_redis_session/redis-session.iml" filepath="$PROJECT_DIR$/19_redis_session/redis-session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_distributed_lock/redis_lock/redislock.iml" filepath="$PROJECT_DIR$/05_distributed_lock/redis_lock/redislock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_release_build/release-build.iml" filepath="$PROJECT_DIR$/07_release_build/release-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22_rocketmq/rocketmq.iml" filepath="$PROJECT_DIR$/22_rocketmq/rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_dobbo_parent/provider/service (1) (com.ljm.dobbo).iml" filepath="$PROJECT_DIR$/09_dobbo_parent/provider/service (1) (com.ljm.dobbo).iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_spring_boot_admin/admin-client/service (2) (com.ljm.boot.admin).iml" filepath="$PROJECT_DIR$/13_spring_boot_admin/admin-client/service (2) (com.ljm.boot.admin).iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_shiro/shiro.iml" filepath="$PROJECT_DIR$/15_shiro/shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_simplifycode/simplifycode.iml" filepath="$PROJECT_DIR$/03_simplifycode/simplifycode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_swagger/swagger.iml" filepath="$PROJECT_DIR$/17_swagger/swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_my_spring_boot_starter_parent/test-mystarter/test-mystarter.iml" filepath="$PROJECT_DIR$/08_my_spring_boot_starter_parent/test-mystarter/test-mystarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_thymeleaf/thymeleaf.iml" filepath="$PROJECT_DIR$/02_thymeleaf/thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21_webdemo/webdemo.iml" filepath="$PROJECT_DIR$/21_webdemo/webdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_distributed_lock/zookeeper_lock/zookeeper.iml" filepath="$PROJECT_DIR$/05_distributed_lock/zookeeper_lock/zookeeper.iml" />
+    </modules>
+  </component>
+</project>

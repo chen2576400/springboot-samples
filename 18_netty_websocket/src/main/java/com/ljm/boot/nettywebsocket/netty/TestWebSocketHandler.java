@@ -118,7 +118,7 @@ public class TestWebSocketHandler extends SimpleChannelInboundHandler<TextWebSoc
 
     @Override
     protected void channelRead0(ChannelHandlerContext channelHandlerContext, TextWebSocketFrame textWebSocketFrame) throws Exception {
-
+        System.out.println(textWebSocketFrame.text());
     }
 
     private static Integer getUrlParams(String url) {

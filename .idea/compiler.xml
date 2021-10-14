@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="3200" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-monitor-simple" />
+        <module name="shiro" />
+        <module name="client" />
+        <module name="netty-websocket" />
+        <module name="monitor" />
+        <module name="release-build" />
+        <module name="dubbo-registry-simple" />
+        <module name="mybatis-plus" />
+        <module name="rocketmq" />
+        <module name="redis-session" />
+        <module name="webdemo" />
+        <module name="dubbo-admin" />
+        <module name="guava" />
+        <module name="zookeeper" />
+        <module name="thymeleaf" />
+        <module name="databaselook" />
+        <module name="service (1) (com.ljm.dobbo)" />
+        <module name="jwt-security" />
+        <module name="druid-monitor" />
+        <module name="service (2) (com.ljm.boot.admin)" />
+        <module name="helloword" />
+        <module name="simplifycode" />
+        <module name="swagger" />
+        <module name="config-switch" />
+        <module name="my-spring-boot-starter" />
+        <module name="docker-build" />
+        <module name="admin" />
+        <module name="redislock" />
+        <module name="common-api" />
+        <module name="jta-atomikos" />
+        <module name="test-mystarter" />
+        <module name="datajpa" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin" target="1.8" />
+      <module name="client" target="1.8" />
+      <module name="common-api" target="1.8" />
+      <module name="config-switch" target="1.8" />
+      <module name="databaselook" target="1.8" />
+      <module name="datajpa" target="1.8" />
+      <module name="distributedlock" target="1.8" />
+      <module name="docker-build" target="1.8" />
+      <module name="druid-monitor" target="1.8" />
+      <module name="dubbo-admin" target="1.8" />
+      <module name="dubbo-monitor-simple" target="1.6" />
+      <module name="dubbo-ops" target="1.5" />
+      <module name="dubbo-registry-simple" target="1.6" />
+      <module name="guava" target="1.8" />
+      <module name="helloword" target="1.8" />
+      <module name="jta-atomikos" target="1.8" />
+      <module name="jwt-security" target="1.8" />
+      <module name="master" target="1.5" />
+      <module name="monitor" target="1.8" />
+      <module name="my-spring-boot-starter" target="1.5" />
+      <module name="my-spring-boot-starter-parent" target="1.5" />
+      <module name="mybatis-plus" target="1.8" />
+      <module name="netty-websocket" target="1.8" />
+      <module name="parent" target="1.8" />
+      <module name="redis-session" target="1.8" />
+      <module name="redislock" target="1.8" />
+      <module name="release-build" target="1.8" />
+      <module name="rocketmq" target="1.8" />
+      <module name="service (1) (com.ljm.dobbo)" target="1.8" />
+      <module name="service (2) (com.ljm.boot.admin)" target="1.8" />
+      <module name="shiro" target="1.8" />
+      <module name="simplifycode" target="1.8" />
+      <module name="swagger" target="1.8" />
+      <module name="test-mystarter" target="1.8" />
+      <module name="thymeleaf" target="1.8" />
+      <module name="webdemo" target="1.8" />
+      <module name="zookeeper" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin" options="-parameters" />
+      <module name="client" options="-parameters" />
+      <module name="common-api" options="-parameters" />
+      <module name="config-switch" options="-parameters" />
+      <module name="databaselook" options="-parameters" />
+      <module name="datajpa" options="-parameters" />
+      <module name="docker-build" options="-parameters" />
+      <module name="druid-monitor" options="-parameters" />
+      <module name="dubbo-admin" options="-parameters" />
+      <module name="guava" options="-parameters" />
+      <module name="helloword" options="-parameters" />
+      <module name="jta-atomikos" options="-parameters" />
+      <module name="jwt-security" options="-parameters" />
+      <module name="monitor" options="-parameters" />
+      <module name="mybatis-plus" options="-parameters" />
+      <module name="netty-websocket" options="-parameters" />
+      <module name="redis-session" options="-parameters" />
+      <module name="redislock" options="-parameters" />
+      <module name="release-build" options="-parameters" />
+      <module name="rocketmq" options="-parameters" />
+      <module name="service (1) (com.ljm.dobbo)" options="-parameters" />
+      <module name="service (2) (com.ljm.boot.admin)" options="-parameters" />
+      <module name="shiro" options="-parameters" />
+      <module name="simplifycode" options="-parameters" />
+      <module name="swagger" options="-parameters" />
+      <module name="test-mystarter" options="-parameters" />
+      <module name="thymeleaf" options="-parameters" />
+      <module name="webdemo" options="-parameters" />
+      <module name="zookeeper" options="-parameters" />
+    </option>
+  </component>
+</project>

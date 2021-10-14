@@ -3,14 +3,14 @@ package com.ljm.boot.helloword.controller;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * @RestController µÈÓÚspringmvcÖÐ @ControllerºÍ@ResponseBody×éºÏÊ¹ÓÃµÄ×¢½â
+ * @RestController ï¿½ï¿½ï¿½ï¿½springmvcï¿½ï¿½ @Controllerï¿½ï¿½@ResponseBodyï¿½ï¿½ï¿½Ê¹ï¿½Ãµï¿½×¢ï¿½ï¿½
  */
 @RestController
 public class HelloWordController {
 
-    /**
-     * @GetMapping×¢½âµÈÖµÓÚservletÀïµÄdoGet·½·¨,Ö»´¦ÀígetÇëÇó
-     * @GetMapping µÈÖµÓÚ @RequestMapping(value = "/hello",method = RequestMethod.GET)
+    /** 
+     * @GetMapping×¢ï¿½ï¿½ï¿½Öµï¿½ï¿½servletï¿½ï¿½ï¿½doGetï¿½ï¿½ï¿½ï¿½,Ö»ï¿½ï¿½ï¿½ï¿½getï¿½ï¿½ï¿½ï¿½
+     * @GetMapping ï¿½ï¿½Öµï¿½ï¿½ @RequestMapping(value = "/hello",method = RequestMethod.GET)
      */
     @GetMapping("/hello")
     public String helloword(){
@@ -18,8 +18,8 @@ public class HelloWordController {
     }
 
     /**
-     * @PostMapping×¢½âµÈÖµÓÚservletÀïµÄdoPost·½·¨,Ö»´¦ÀípostÇëÇó
-     * @PostMapping µÈÖµÓÚ @RequestMapping(value = "/hello",method = RequestMethod.POST)
+     * @PostMapping×¢ï¿½ï¿½ï¿½Öµï¿½ï¿½servletï¿½ï¿½ï¿½doPostï¿½ï¿½ï¿½ï¿½,Ö»ï¿½ï¿½ï¿½ï¿½postï¿½ï¿½ï¿½ï¿½
+     * @PostMapping ï¿½ï¿½Öµï¿½ï¿½ @RequestMapping(value = "/hello",method = RequestMethod.POST)
      */
     @PostMapping("/hello")
     public String helloword_post(){
